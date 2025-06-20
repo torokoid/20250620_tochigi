@@ -170,23 +170,6 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LHa6I4fzvvQ?si=I2XG69kh2UD1vHA5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
-
-
-
-
-<br><br>
-<h2><span class="yellow">メタバース「cluster」内のイベントで「雪の約束」by まいてゃさん<br>ダンサーの玖遠さんがトラブってみんなでステージダンスになりました</span></h2>
-  
-        <h2>MP4ファイルの再生</h2>
-    <video controls width="640">
-        <source src="2025-02-26 yukinoyakusoku by maitiya.mp4" type="video/mp4">
-        お使いのブラウザは video タグをサポートしていません。
-    </video>
-
-
-
-
-    
     
     <h3><span class="grey">「雪の中で輝くシンデレラ」by まいてゃ</span></h3>
 <h2><a href="https://torokoid.github.io/20250219_chiangrai/maitiyaz.mp3" target="_blank">この文字クリックで再生します<br>下の再生ボタンでも同じ曲をループ再生します</a></h2>
